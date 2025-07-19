@@ -1,0 +1,12 @@
+[submodule "front_next"]
+	path = front_next
+	url = https://github.com/umeshimaru/front_next.git
+[submodule "front_notifications"]
+	path = front_notifications
+	url = https://github.com/umeshimaru/front_notifications.git
+[submodule "front1"]
+	path = front1
+	url = https://github.com/umeshimaru/front1.git
+[submodule "back1"]
+	path = back1
+	url = https://github.com/umeshimaru/back1.git
